@@ -1,0 +1,21 @@
+Sum: 3.0     Item: hamburger Quantity: 2 Price: 1.5 Customer: Andrew
+Sum: 1.5     Item: hamburger Quantity: 1 Price: 1.5 Customer: Bob
+Sum: 1.0     Item: juice Quantity: 1 Price: 1.0 Customer: Clarissa
+Sum: 1.0     Item: parfait Quantity: 1 Price: 1.0 Customer: Clarissa
+Sum: 0.5     Item: milk Quantity: 1 Price: 0.5 Customer: Clarissa
+Sum: 6.0     Item: sandwich Quantity: 3 Price: 2.0 Customer: Danny
+Sum: 1.0     Item: milk Quantity: 2 Price: 0.5 Customer: Evannia
+Sum: 2.0     Item: parfait Quantity: 2 Price: 1.0 Customer: Evannia
+Sum: 1.0     Item: juice Quantity: 1 Price: 1.0 Customer: Evannia
+Sum: 2.0     Item: noodles Quantity: 2 Price: 1.0 Customer: Fabian
+Sum: 1.0     Item: juice Quantity: 1 Price: 1.0 Customer: Fabian
+
+Item: hamburger Price: 1.5 Quantity: 3 Sum: 4.5
+Item: juice Price: 1.0 Quantity: 3 Sum: 3.0
+Item: noodles Price: 1.0 Quantity: 2 Sum: 2.0
+Item: parfait Price: 1.0 Quantity: 3 Sum: 3.0
+Item: sandwich Price: 2.0 Quantity: 3 Sum: 6.0
+Item: milk Price: 0.5 Quantity: 3 Sum: 1.5
+Item: coke Price: 1.0 Quantity: 0 Sum: 0.0
+
+Total 20.0

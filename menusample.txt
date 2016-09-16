@@ -1,0 +1,14 @@
+hamburger 3
+1.50
+juice
+1.00
+noodles
+1.00
+parfait 10
+1.00
+sandwich
+2.00
+milk
+0.50
+coke
+1.00
